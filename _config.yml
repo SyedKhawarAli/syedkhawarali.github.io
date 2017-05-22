@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 url: "http://khawarali5.github.io"
 baseurl: ""
-avatar: "https://avatars3.githubusercontent.com/u/15910422?v=3&u=4ddab3843b5b5c7bc87dfe7236a94bd64d2632a7&s=200"
+avatar: https://avatars3.githubusercontent.com/u/15910422?v=3&u=4ddab3843b5b5c7bc87dfe7236a94bd64d2632a7&s=400
 title: Khawar Ali
 description: Feel free to bookmark this to keep an eye on my project updates
 navbar-links:
