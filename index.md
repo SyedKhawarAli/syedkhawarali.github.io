@@ -2,7 +2,7 @@ I'm an application developer in [UET Game Studio](http://www.kics.edu.pk/labs/ab
 
 I received my Bachelor’s degree in Computer Science from the [University of Engineering and Technology, Lahore](http://www.uet.edu.pk/), in 2016. My final year project was centralized controlled automation system, in which I design and develope [android application](https://play.google.com/store/apps/details?id=com.support.android.iotechSvitch&hl=en) for this system.
 
-My interests are Application Development, Mobile Development and Data Science.
+My interests are Application Development, Mobile Development and cloud computing.
 
 ## Projects
 
