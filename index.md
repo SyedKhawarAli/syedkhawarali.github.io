@@ -20,7 +20,18 @@ Website to maintain and analyze the doctor’s records. User can check doctors t
 
 ## Personal Games
 
-## [UET Game Studio](http://www.kics.edu.pk/labs/about/uetgs) Games
+### Pong Fun 
+Pong Fun is a simple arcade game. In this game your mission is to keep the balls high in the screen using paddle. 
+With the passage of time more balls will come to test your attention ([divided attention](https://edubloxtutor.com/improving-divided-attention/)).
+
+[Android download link](https://play.google.com/store/apps/details?id=com.gmail.khawarali5.pongFun). 
+
+### ABC
+Basic goal is to produce relation in children's mind between characters and natural object. As the game is colorfull it attract children's focus. This can be used to teach alphabet to children, like 'A' for Apple, 'B' for Ball, 'C' for Cat etc.
+
+[Android download link](https://play.google.com/store/apps/details?id=com.gmail.khawarali5.ABC). 
+
+## UET Game Studio Games
 
 ### Math Puzzle: Save the Frog 
 The game targets young children who are just stepping into the field of maths and wish to become mathematics heroes. The game has three modes, easy, medium and hard to make sure the child keeps learning and challenging himself in maths problems
