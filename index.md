@@ -1,3 +1,7 @@
+I am research officer in [UET Game Studio](http://www.kics.edu.pk/labs/about/uetgs) to design and develope games. We are working on mostly educatainment games and trying to learn their impact on childrens life.  
+
+## Games
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/khawarali5/khawar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
