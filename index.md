@@ -1,6 +1,17 @@
-I am research officer in [UET Game Studio](http://www.kics.edu.pk/labs/about/uetgs) to design and develope games. We are working on mostly educatainment games and trying to learn their impact on childrens life.  
+I am research officer in [UET Game Studio](http://www.kics.edu.pk/labs/about/uetgs) to design and develope games. We are working on mostly edutainment games and trying to learn their impact on children's life.  
 
 ## Games
+&rarr; &rarr; 
+
+### Math Puzzle: Save the Frog 
+The game targets young children who are just stepping into the field of maths and wish to become mathematics heroes. The game has three modes, easy, medium and hard to make sure the child keeps learning and challenging himself in maths problems
+Apple[link](https://itunes.apple.com/us/app/math-puzzle-save-the-frog/id1232146902?mt=8)&rarr; 
+Android[link](https://play.google.com/store/apps/details?id=pk.edu.kics.uetgs.Math_Puzzle&hl=en) &rarr; 
+
+
+### Protect The Candy
+Protect the Candy is a simple 2D tap-to-kill game. You have to help Hansey defend Granny Fanny's candy house from hungry monsters who will stop at nothing when it comes to stealing candy.
+[Android](https://play.google.com/store/apps/details?id=pk.edu.kics.ayyaz.ali.ProtectTheCandy&hl=en) 
 
 ## Welcome to GitHub Pages
 
