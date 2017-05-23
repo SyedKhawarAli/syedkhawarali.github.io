@@ -18,7 +18,9 @@ A website that create, conduct and evaluate quizzes for teachers and students. I
 
 Website to maintain and analyze the doctor’s records. User can check doctors timing for hospital and personal clinic. I work as a front end developer and used Dreamware for programming purpose.
 
-## Games
+## Personal Games
+
+## [UET Game Studio](http://www.kics.edu.pk/labs/about/uetgs) Games
 
 ### Math Puzzle: Save the Frog 
 The game targets young children who are just stepping into the field of maths and wish to become mathematics heroes. The game has three modes, easy, medium and hard to make sure the child keeps learning and challenging himself in maths problems
@@ -29,37 +31,6 @@ The game targets young children who are just stepping into the field of maths an
 
 
 ### Protect The Candy
-Protect the Candy is a simple 2D tap-to-kill game. You have to help Hansey defend Granny Fanny's candy house from hungry monsters who will stop at nothing when it comes to stealing candy.
+Protect the Candy is a simple 2D tap-to-kill game. In which you are suppose to help Hansey defend Granny Fanny's candy house from hungry monsters who will stop at nothing when it comes to stealing candy.
 
 [Android download link](https://play.google.com/store/apps/details?id=pk.edu.kics.ayyaz.ali.ProtectTheCandy&hl=en) 
-
-## Welcome to khawar's Page
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/khawarali5/khawar.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
