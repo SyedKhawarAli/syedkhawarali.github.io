@@ -1,4 +1,7 @@
-I am research officer in [UET Game Studio](http://www.kics.edu.pk/labs/about/uetgs) to design and develope games. We are working on mostly edutainment games and trying to learn their impact on children's life.  
+I'm an application developer in [UET Game Studio](http://www.kics.edu.pk/labs/about/uetgs). I’m currently designing and developing edutainment games in [corona sdk](https://coronalabs.com/).
+
+I received my Bachelor’s degree in Computer Science from the [University of Engineering and Technology, Lahore](http://www.uet.edu.pk/), in 2016. My final year project was centralized controlled automation system, in which I design and develope [android application](https://play.google.com/store/apps/details?id=com.support.android.iotechSvitch&hl=en) for this system.
+
 
 ## Games
 
