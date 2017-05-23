@@ -8,15 +8,15 @@ My interests are Application Development, Mobile Development and Data Science.
 
 ### centralized controlled automation system
 
-A project on home/industrial automation system which provides a central system that can control and create communication between all aspects of house/industry using [android application](https://play.google.com/store/apps/details?id=com.support.android.iotechSvitch&hl=en), remote control and internet. Basic features includes Switching, Scheduling and Power consumption analysis of appliances
+A project on home/industrial automation system which provides a central system that can control and create communication between all aspects of house/industry using [android application](https://play.google.com/store/apps/details?id=com.support.android.iotechSvitch&hl=en), remote control and internet. Basic features includes Switching, Scheduling and Power consumption analysis of appliances.
 
 ### On-line Quiz system (website)
 
-A website that create, conduct and evaluate quiz for teachers and students. For this website I work as a front end developer And work on dreamware(software) for HTML, java Script, jQuery coding. I also work on wamp server for working on data base for website (e.g creating databases and tables and inserting data in tables)
+A website that create, conduct and evaluate quizzes for teachers and students. I work as a front end developer And used dreamware(software) for HTML, java Script, jQuery programming. I also worked on wamp server to manage database of website (e.g creating databases and tables and inserting data in tables)
 
 ### Doctor Clinic website
 
-Website to maintain and analyze the doctor’s records. User can check doctors timing for hospital and personal clinic.I work as a front end developer and used Dreamware for programming purpose.
+Website to maintain and analyze the doctor’s records. User can check doctors timing for hospital and personal clinic. I work as a front end developer and used Dreamware for programming purpose.
 
 ## Games
 
@@ -35,10 +35,6 @@ Protect the Candy is a simple 2D tap-to-kill game. You have to help Hansey defen
 
 ## Welcome to khawar's Page
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
