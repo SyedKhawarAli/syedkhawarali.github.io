@@ -3,5 +3,9 @@ title: Syed Khawar Ali
 description: "designer, developer, footballer"
 baseurl: ""
 url: "https://syedkhawarali.github.io/"
-github_username: syedkhawarali
-twitter_username: khawarali65
+#github_username: syedkhawarali
+#twitter_username: khawarali65
+# Includes an icon in the footer for each user name you enter
+footer-links:
+  github: syedkhawarali
+  twitter: khawarali65
