@@ -34,7 +34,7 @@ Basic goal is to produce relation in children's mind between characters and natu
 ## UET Game Studio games
 
 ### Math puzzle: save the frog 
-The game targets young children who are just stepping into the field of maths and wish to become mathematics heroes. The game has three modes, easy, medium and hard to make sure the child keeps learning and challenging himself in maths problems
+The game targets young children who are just stepping into the field of maths and wish to become mathematics heroes. The game has three modes, `easy`, `medium` and `hard` to make sure the child keeps learning and challenging himself in maths problems
 
 [Apple download link](https://itunes.apple.com/us/app/math-puzzle-save-the-frog/id1232146902?mt=8).
 
