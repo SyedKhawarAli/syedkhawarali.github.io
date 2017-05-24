@@ -8,7 +8,20 @@ My interests are in application development, mobile development and cloud comput
 
 ### Centralized controlled automation system
 
-A project on home/industrial automation system which provides a central system that can control and create communication between all aspects of house/industry using [android application](https://play.google.com/store/apps/details?id=com.support.android.iotechSvitch&hl=en), remote control and internet. Basic features includes Switching, Scheduling and Power consumption analysis of appliances.
+
+A project on home/industrial automation system which provides a central system that can control and create communication between all aspects of house/industry using [android application](https://play.google.com/store/apps/details?id=com.support.android.iotechSvitch&hl=en), remote control and internet. 
+
+#### Features: 
+
+- Switching via application, remote controller and internet
+- Intelligent scheduling for appliances
+- Power consumption and units’ calculation
+- Electricity cost estimation
+- Build-in stabilizer
+- Weather station (Temperature sensing and control)
+- Integrated fire sensors and exact pinpoint the fire effected area
+- IP camera security and live streaming
+- Dynamic, interactive, and user friendly android application
 
 ### On-line quiz system (website)
 
