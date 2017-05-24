@@ -23,12 +23,12 @@ A game that targets young children who are taking their first steps into mathema
 
 <a href='https://play.google.com/store/apps/details?id=pk.edu.kics.uetgs.Math_Puzzle&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="25%" height="25%" /></a>
 
-<a href='https://itunes.apple.com/us/app/math-puzzle-save-the-frog/id1232146902?mt=8'><img alt='available on Apple store' src='http://www.sthildas.qld.edu.au/wp-content/uploads/2016/03/App-Store.jpg' width="25%" height="23%"/></a>
+<a href='https://itunes.apple.com/us/app/math-puzzle-save-the-frog/id1232146902?mt=8'><img alt='available on Apple store' src='http://www.vividtracker.com/wp-content/uploads/2013/12/appstore.png' width="25%" height="25%"/></a>
 
 ## Protect the Candy
 A simple 2D tap-to-kill game in which you are to help the protagonist (Hansey) defend his granny's candy house from hungry monsters who will stop at nothing when it comes to stealing candy.
 
-<a href='https://play.google.com/store/apps/details?id=pk.edu.kics.ayyaz.ali.ProtectTheCandy&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="24%" height="22%"/></a>
+<a href='https://play.google.com/store/apps/details?id=pk.edu.kics.ayyaz.ali.ProtectTheCandy&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="25%" height="25%"/></a>
 
 
 # Academic Projects
