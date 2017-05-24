@@ -31,7 +31,7 @@ Basic goal is to produce relation in children's mind between characters and natu
 
 [Android download link](https://play.google.com/store/apps/details?id=com.gmail.khawarali5.ABC). 
 
-## UET game studio games
+## UET Game Studio games
 
 ### Math puzzle: save the frog 
 The game targets young children who are just stepping into the field of maths and wish to become mathematics heroes. The game has three modes, easy, medium and hard to make sure the child keeps learning and challenging himself in maths problems
