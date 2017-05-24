@@ -12,11 +12,11 @@ A project on home/industrial automation system which provides a central system t
 
 ### On-line quiz system (website)
 
-A website that create, conduct and evaluate quizzes for teachers and students. I work as a front end developer And used dreamware(software) for HTML, java Script, jQuery programming. I also worked on wamp server to manage database of website (e.g creating databases and tables and inserting data in tables)
+A website that create, conduct and evaluate quizzes for teachers and students. I work as a front end developer And used `dreamware(software)` for HTML, java Script, jQuery programming. I also worked on `wamp server` to manage database of website (e.g creating databases and tables and inserting data in tables)
 
 ### Doctor clinic website
 
-Website to maintain and analyze the doctor’s records. User can check doctors timing for hospital and personal clinic. I work as a front end developer and used Dreamware for programming purpose.
+Website to maintain and analyze the doctor’s records. User can check doctors timing for hospital and personal clinic. I work as a front end developer and used `dreamware` for programming purpose.
 
 ## Personal games
 
