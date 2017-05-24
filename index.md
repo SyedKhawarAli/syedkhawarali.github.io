@@ -2,7 +2,7 @@ I'm an application developer in [UET Game Studio](http://www.kics.edu.pk/labs/ab
 
 I received my Bachelor’s degree in Computer Science from the [University of Engineering and Technology, Lahore](http://www.uet.edu.pk/), in 2016. My final year project was centralized controlled automation system, in which I design and develope [android application](https://play.google.com/store/apps/details?id=com.support.android.iotechSvitch&hl=en) for this system.
 
-My interests are in Application Development, Mobile Development and cloud computing.
+My interests are in application development, mobile development and cloud computing.
 
 ## Projects
 
@@ -21,7 +21,7 @@ Website to maintain and analyze the doctor’s records. User can check doctors t
 ## Personal games
 
 ### Pong fun 
-Pong Fun is a simple arcade game. In this game your mission is to keep the balls high in the screen using paddle. 
+Pong fun is a simple arcade game. In this game your mission is to keep the balls high in the screen using paddle. 
 With the passage of time more balls will come to test your attention ([divided attention](https://edubloxtutor.com/improving-divided-attention/)).
 
 [Android download link](https://play.google.com/store/apps/details?id=com.gmail.khawarali5.pongFun). 
@@ -42,6 +42,6 @@ The game targets young children who are just stepping into the field of maths an
 
 
 ### Protect the candy
-Protect the Candy is a simple 2D tap-to-kill game. In which you are suppose to help Hansey defend Granny Fanny's candy house from hungry monsters who will stop at nothing when it comes to stealing candy.
+Protect the candy is a simple 2D tap-to-kill game. In which you are suppose to help Hansey defend Granny Fanny's candy house from hungry monsters who will stop at nothing when it comes to stealing candy.
 
 [Android download link](https://play.google.com/store/apps/details?id=pk.edu.kics.ayyaz.ali.ProtectTheCandy&hl=en) 
