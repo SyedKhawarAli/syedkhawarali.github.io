@@ -27,7 +27,7 @@ With the passage of time more balls will come to test your attention ([divided a
 [Android download link](https://play.google.com/store/apps/details?id=com.gmail.khawarali5.pongFun). 
 
 ### ABC
-Basic goal is to produce relation in children's mind between characters and natural object. As the game is colorfull it attract children's focus. This can be used to teach alphabet to children, like 'A' for Apple, 'B' for Ball, 'C' for Cat etc.
+Basic goal is to produce relation in children's mind between characters and natural object. As the game is colorfull it attract children's focus. This can be used to teach alphabet to children, like `'A' for Apple`, `'B' for Ball`, `'C' for Cat` etc.
 
 [Android download link](https://play.google.com/store/apps/details?id=com.gmail.khawarali5.ABC). 
 
