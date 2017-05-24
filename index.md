@@ -23,7 +23,7 @@ A game that targets young children who are taking their first steps into mathema
 
 <a href='https://play.google.com/store/apps/details?id=pk.edu.kics.uetgs.Math_Puzzle&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="25%" height="25%" /></a>
 
-<a href='https://itunes.apple.com/us/app/math-puzzle-save-the-frog/id1232146902?mt=8'><img alt='available on Apple store' src='http://wshes.com/data/cheditor4/1608/4e548f75e849b8191f6512df35db58ba_20160825114747_vsmovgwy.jpg' width="25%" height="25%"/></a>
+<a href='https://itunes.apple.com/us/app/math-puzzle-save-the-frog/id1232146902?mt=8'><img alt='available on Apple store' src='https://cdn.worldvectorlogo.com/logos/download-on-the-app-store-apple.svg' width="25%" height="25%"/></a>
 
 ## Protect the Candy
 A simple 2D tap-to-kill game in which you are to help the protagonist (Hansey) defend his granny's candy house from hungry monsters who will stop at nothing when it comes to stealing candy.
