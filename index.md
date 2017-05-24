@@ -9,25 +9,26 @@ My interests are in application development, mobile development and cloud comput
 ## Pong Fun 
 A simple arcade game inspired by minimalist design and elementary physics. Your mission in the game is to use the paddle to keep the balls on the screen. With time, more balls are added to the mix to put you through your paces. The game was built to test players' [divided attention](https://edubloxtutor.com/improving-divided-attention/) to see how well they can multitask.
 
-<a href='https://play.google.com/store/apps/details?id=com.gmail.khawarali5.pongFun&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.gmail.khawarali5.pongFun&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="50%" height="50%" /></a>
 
 ## ABC
 A lively children's game intended to teach toddlers the alphabet. Its colourful interface and interactive gameplay ensure kids will have a blast learning their ABC's and their building vocabulary with all the illustrations of real life objects in it.
 
-<a href='https://play.google.com/store/apps/details?id=com.gmail.khawarali5.ABC&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.gmail.khawarali5.ABC&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="50%" height="50%" /></a>
 
 # Professional Projects
 
 ## Math Puzzle: Save the Frog 
 A game that targets young children who are taking their first steps into mathematics and want to improve their skills. The game features three modes (easy/medium/hard) to help the child progress by keeping him challenged.
 
-<a href='https://play.google.com/store/apps/details?id=pk.edu.kics.uetgs.Math_Puzzle&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=pk.edu.kics.uetgs.Math_Puzzle&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="50%" height="50%" /></a>
 
+<a href='https://itunes.apple.com/us/app/math-puzzle-save-the-frog/id1232146902?mt=8'><img alt='available on Apple store' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhPwiapfRSnp50bf62RN55eSNE5KGHhR9NI_OopAnjrGqbGOwE'/></a>
 
 ## Protect the Candy
 A simple 2D tap-to-kill game in which you are to help the protagonist (Hansey) defend his granny's candy house from hungry monsters who will stop at nothing when it comes to stealing candy.
 
-<a href='https://play.google.com/store/apps/details?id=pk.edu.kics.ayyaz.ali.ProtectTheCandy&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=pk.edu.kics.ayyaz.ali.ProtectTheCandy&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="50%" height="50%"/></a>
 
 
 # Academic Projects
@@ -45,7 +46,7 @@ Built a holistic solution for monitoring and controlling all devices inside a ho
 - Integration with smoke detectors and fire alarms
 - Online/offline communication
 
-<a href='https://play.google.com/store/apps/details?id=com.support.android.iotechSvitch&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.support.android.iotechSvitch&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="50%" height="50%"/></a>
 
 
 ## Online Quiz System
