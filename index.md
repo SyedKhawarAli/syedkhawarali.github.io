@@ -31,6 +31,12 @@ A simple 2D tap-to-kill game in which you are to help the protagonist (Hansey) d
 
 <a href='https://play.google.com/store/apps/details?id=pk.edu.kics.ayyaz.ali.ProtectTheCandy&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="25%" height="25%"/></a>
 
+## Scale Mania
+An assistance game for students, who are studying major and minor keys. Students are supposed to eliminating wrong notes before they reache the piano. The game contains all major and minor scales, 25 levels all in all.
+
+<a href='https://play.google.com/store/apps/details?id=com.gmail.khawarali5.Scale_Mania'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="25%" height="25%"/></a>
+
+
 
 # Academic Projects
 
