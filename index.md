@@ -37,7 +37,7 @@ An assistance game for students, who are studying major and minor keys. Students
 <a href='https://play.google.com/store/apps/details?id=com.gmail.khawarali5.Scale_Mania'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="25%" height="25%"/></a>
 
 ## Disc Flick: Clear the Board
-A simple strategy game in which your aim to clear the board in limited moves and time. Swaping a disc between any two disc remove them. but some can't move and some are alloed to remove.
+A simple strategy game in which your aim to clear the board in limited moves and time. Swaping a disc between any two disc remove them. but some disc can't move and some are allowed to remove.
 
 <a href='https://play.google.com/store/apps/details?id=com.theinventlabs.StoneFlick'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="25%" height="25%"/></a>
 
