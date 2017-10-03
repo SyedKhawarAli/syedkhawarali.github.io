@@ -19,13 +19,6 @@ A lively children's game intended to teach toddlers the alphabet. Its colourful 
 
 # Professional Projects
 
-## Math Puzzle: Save the Frog 
-A game that targets young children who are taking their first steps into mathematics and want to improve their skills. The game features three modes (easy/medium/hard) to help the child progress by keeping him challenged.
-
-<a href='https://play.google.com/store/apps/details?id=pk.edu.kics.uetgs.Math_Puzzle&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="25%" height="25%" /></a>
-
-<a href='https://itunes.apple.com/us/app/math-puzzle-save-the-frog/id1232146902?mt=8'><img alt='available on Apple store' src='https://github.com/SyedKhawarAli/syedkhawarali.github.io/blob/master/apple_badge.png?raw=true' width="25%" height="25%"/></a>
-
 ## Protect the Candy
 A simple 2D tap-to-kill game in which you are to help the protagonist (Hansey) defend his granny's candy house from hungry monsters who will stop at nothing when it comes to stealing candy.
 
@@ -42,6 +35,20 @@ A simple strategy game in which your aim to clear the board in limited moves and
 <a href='https://play.google.com/store/apps/details?id=com.theinventlabs.StoneFlick'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="25%" height="25%"/></a>
 
 <a href='https://itunes.apple.com/pk/app/disc-flick-clear-the-board/id1243398388?mt=8'><img alt='available on Apple store' src='https://github.com/SyedKhawarAli/syedkhawarali.github.io/blob/master/apple_badge.png?raw=true' width="25%" height="25%"/></a>
+
+## Independence Day Quiz: Azadi Special
+A general Knowledge quiz application on the Independence day of our beloved country Pakistan. The top ranked players on 14th August got  gift hampers from UET Game Studio.
+
+<a href='https://play.google.com/store/apps/details?id=com.gmail.khawarali5.azadi_quiz'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="25%" height="25%"/></a>
+
+<a href='https://itunes.apple.com/us/app/independence-day-quiz-azadi-special/id1265789020?ls=1&mt=8'><img alt='available on Apple store' src='https://github.com/SyedKhawarAli/syedkhawarali.github.io/blob/master/apple_badge.png?raw=true' width="25%" height="25%"/></a>
+
+## Pong Dash: Tap Tap Fun
+Pong Dash is the retro form for Ping Pong with exciting colors and graphics. Epic game modes will help you test your brain throughout the game.
+
+<a href='https://play.google.com/store/apps/details?id=pk.edu.kics.uetgs.PongDash'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="25%" height="25%"/></a>
+
+<a href='https://itunes.apple.com/us/app/pong-dash-tap-tap-fun/id1277636348?mt=8'><img alt='available on Apple store' src='https://github.com/SyedKhawarAli/syedkhawarali.github.io/blob/master/apple_badge.png?raw=true' width="25%" height="25%"/></a>
 
 # Academic Projects
 
