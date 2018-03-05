@@ -19,6 +19,13 @@ A lively children's game intended to teach toddlers the alphabet. Its colourful 
 
 # Professional Projects
 
+## Whack a Mole
+A simple VR Game in unity 3D.
+
+#### supported platform: 
+  - Google cardboard
+  - Samsung GearVR
+
 ## Protect the Candy
 A simple 2D tap-to-kill game in which you are to help the protagonist (Hansey) defend his granny's candy house from hungry monsters who will stop at nothing when it comes to stealing candy.
 
