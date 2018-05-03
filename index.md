@@ -19,6 +19,20 @@ A lively children's game intended to teach toddlers the alphabet. Its colourful 
 
 # Professional Projects
 
+## Zombie Doom
+Zombie Doom is a VR Game in unity 3D. In game you have to shot zombies to save yourself. The game features actual guns. There are two modes in the game; Career Mode and Endless. Complete missions by killing the doomsday zombie apocalypse horde and proceed further. Execute them all before your health bar ends. In Endless mode, the whole predator zombie Armageddon swarm is upon you to cause the infection. Kill maximum number of the walking dead monster before the horde infection gets to you. 
+Innovative Gameplay:
+
+#### supported platform: 
+  - Samsung GearVR
+
+3D version of game is also available at android, ios and amazon store.
+  
+<a href='https://play.google.com/store/apps/details?id=pk.edu.kics.uetgs.zombieShooter&hl=en'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="25%" height="25%"/></a>
+
+<a href='https://itunes.apple.com/us/app/zombie-doom-fps-headshot-carn/id1371895569?mt=8&ign-mpt=uo%3D4'><img alt='available on Apple store' src='https://github.com/SyedKhawarAli/syedkhawarali.github.io/blob/master/apple_badge.png?raw=true' width="25%" height="25%"/></a>
+
+ <a href='https://www.amazon.com/Zombie-Doom-FPS-Headshot-Carnage/dp/B07B7LPX2V'><img alt='available on Amazon store' src='https://github.com/SyedKhawarAli/syedkhawarali.github.io/blob/master/amazon_badger.png' width="25%" height="25%"/></a>
 ## Whack a Mole
 A simple VR Game in unity 3D.
 
@@ -57,6 +71,7 @@ Pong Dash is the retro form for Ping Pong with exciting colors and graphics. Epi
 
 <a href='https://itunes.apple.com/us/app/pong-dash-tap-tap-fun/id1277636348?mt=8'><img alt='available on Apple store' src='https://github.com/SyedKhawarAli/syedkhawarali.github.io/blob/master/apple_badge.png?raw=true' width="25%" height="25%"/></a>
 
+<a href='https://www.amazon.com/Pong-Classic-Tap-Dash/dp/B0794T97LS/ref=sr_1_18?s=mobile-apps&ie=UTF8&qid=1525322938&sr=1-18'><img alt='available on Amazon store' src='https://github.com/SyedKhawarAli/syedkhawarali.github.io/blob/master/amazon_badger.png' width="25%" height="25%"/></a>
 # Academic Projects
 
 ## Centralized Home Automation System
