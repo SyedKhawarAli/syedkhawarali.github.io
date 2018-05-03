@@ -32,7 +32,7 @@ Innovative Gameplay:
 
 <a href='https://itunes.apple.com/us/app/zombie-doom-fps-headshot-carn/id1371895569?mt=8&ign-mpt=uo%3D4'><img alt='available on Apple store' src='https://github.com/SyedKhawarAli/syedkhawarali.github.io/blob/master/apple_badge.png?raw=true' width="25%" height="25%"/></a>
 
- <a href='https://www.amazon.com/Zombie-Doom-FPS-Headshot-Carnage/dp/B07B7LPX2V'><img alt='available on Amazon store' src='https://github.com/SyedKhawarAli/syedkhawarali.github.io/blob/master/amazon_badger.png' width="25%" height="25%"/></a>
+ <a href='https://www.amazon.com/Zombie-Doom-FPS-Headshot-Carnage/dp/B07B7LPX2V'><img alt='available on Amazon store' src='https://raw.githubusercontent.com/SyedKhawarAli/syedkhawarali.github.io/master/amazon_badger2.png' width="25%" height="25%"/></a>
 ## Whack a Mole
 A simple VR Game in unity 3D.
 
@@ -71,7 +71,7 @@ Pong Dash is the retro form for Ping Pong with exciting colors and graphics. Epi
 
 <a href='https://itunes.apple.com/us/app/pong-dash-tap-tap-fun/id1277636348?mt=8'><img alt='available on Apple store' src='https://github.com/SyedKhawarAli/syedkhawarali.github.io/blob/master/apple_badge.png?raw=true' width="25%" height="25%"/></a>
 
-<a href='https://www.amazon.com/Pong-Classic-Tap-Dash/dp/B0794T97LS/ref=sr_1_18?s=mobile-apps&ie=UTF8&qid=1525322938&sr=1-18'><img alt='available on Amazon store' src='https://github.com/SyedKhawarAli/syedkhawarali.github.io/blob/master/amazon_badger.png' width="25%" height="25%"/></a>
+<a href='https://www.amazon.com/Pong-Classic-Tap-Dash/dp/B0794T97LS/ref=sr_1_18?s=mobile-apps&ie=UTF8&qid=1525322938&sr=1-18'><img alt='available on Amazon store' src='https://raw.githubusercontent.com/SyedKhawarAli/syedkhawarali.github.io/master/amazon_badger2.png' width="25%" height="25%"/></a>
 
 # Academic Projects
 
