@@ -1,6 +1,6 @@
 I'm an application developer at [University of Engineering and Technology, Lahore](http://www.uet.edu.pk/)'s [Game Studio](http://www.kics.edu.pk/labs/about/uetgs). I'm currently working on designing and developing edutainment games using the [Corona SDK](https://coronalabs.com/).
 
-Prior to this, I received my bachelors degree in Computer Science from the [University of Engineering and Technology, Lahore](http://www.uet.edu.pk/), in 2016, where I was on the varsity football team.
+Prior to this, I received my bachelors degree in Computer Science from the [University of Engineering and Technology, Lahore](http://www.uet.edu.pk/), in 2016, where I was on the varsity football team. 
 
 My interests are in application development, mobile development and cloud computing.
 
@@ -72,6 +72,7 @@ Pong Dash is the retro form for Ping Pong with exciting colors and graphics. Epi
 <a href='https://itunes.apple.com/us/app/pong-dash-tap-tap-fun/id1277636348?mt=8'><img alt='available on Apple store' src='https://github.com/SyedKhawarAli/syedkhawarali.github.io/blob/master/apple_badge.png?raw=true' width="25%" height="25%"/></a>
 
 <a href='https://www.amazon.com/Pong-Classic-Tap-Dash/dp/B0794T97LS/ref=sr_1_18?s=mobile-apps&ie=UTF8&qid=1525322938&sr=1-18'><img alt='available on Amazon store' src='https://github.com/SyedKhawarAli/syedkhawarali.github.io/blob/master/amazon_badger.png' width="25%" height="25%"/></a>
+
 # Academic Projects
 
 ## Centralized Home Automation System
