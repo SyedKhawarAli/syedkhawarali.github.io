@@ -1,0 +1,18 @@
+# OS cruft
+.DS_Store
+
+# Node / front-end build artifacts
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn.lock
+
+# Compiled assets
+dist/
+.sass-cache/
+.cache/
+
+# Misc
+.env
+.env.*
+*.log

@@ -23,17 +23,19 @@
   <script src="https://kit.fontawesome.com/5feda7279d.js" crossorigin="anonymous"></script>
   <!-- Custom styles for this template -->
   <link href="css/resume.min.css" rel="stylesheet">
+  <link href="css/custom.css" rel="stylesheet">
 
 </head>
 
 <body id="page-top">
 
-  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
-    <a class="navbar-brand js-scroll-trigger" href="#page-top">
-      <span class="d-block d-lg-none">Syed Khawar Ali Shah</span>
-      <span class="d-none d-lg-block">
-        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/khawarAliIcon.png" alt="">
-      </span>
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">
+        <span class="d-block d-lg-none">Syed Khawar Ali Shah</span>
+        <span class="d-none d-lg-block">
+          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/khawarAliIcon.png" alt="">
+        </span>
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
       aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -53,25 +55,23 @@
           <div id="collapse1" class="panel-collapse collapse">
             <ul class="fa-ul mb-6">
               <li>
-                <a class="nav-link js-scroll-trigger" href="#Academic" style="font-size: 14px;">iOS</a>
+                <a class="nav-link js-scroll-trigger nav-subitem" href="#Academic">iOS</a>
               </li>
               <li>
-                <a class="nav-link js-scroll-trigger" href="#Personal" style="font-size: 14px;">C#</a>
+                <a class="nav-link js-scroll-trigger nav-subitem" href="#Personal">C#</a>
               </li>
               <li>
-                <a class="nav-link js-scroll-trigger" href="#Professional" style="font-size: 14px;">Others</a>
+                <a class="nav-link js-scroll-trigger nav-subitem" href="#Professional">Others</a>
               </li>
             </ul>
           </div>
         </li>
       </ul>
     </div>
-    <br />
-    <br />
+  </nav>
+  </header>
 
-    </nav>
-
-  <div class="container-fluid p-0">
+  <main class="container-fluid p-0">
 
     <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
       <div class="my-auto">
@@ -81,57 +81,44 @@
         <div class="subheading mb-5">Software Engineer, Finland ·
           <a href="mailto:khawarali5@gmail.com">khawarali5@gmail.com</a>
         </div>
-        <p class="mb-5">
-          I’m an iOS Developer with an insatiable appetite for learning and writing clean code all
-          aiming to
-          create an amazing user experience. I’ve always had a strong curiosity for how things work. I naturally
-          gravitate towards
-          great design and I aim to combine intuitive functionality with a beautiful and fluid user interface.
-          <br />
-          <br />
-          I'm open to new and great opportunities where I can continue to learn, contribute meaningfully, and foster
-          growth.
-          <br />
-          <br />
-        <ul class="list-inline list-social-icons mb-0">
+        <p class="mb-4">
+          I’m an iOS Developer with an insatiable appetite for learning and writing clean code—all aimed at delivering
+          an amazing user experience. I’m naturally curious about how things work, gravitate toward great design, and
+          love combining intuitive functionality with beautiful, fluid interfaces.
+        </p>
+        <p class="mb-4">
+          I'm open to new opportunities where I can continue learning, contribute meaningfully, and foster growth.
+        </p>
+        <ul class="list-inline social-links mb-0">
           <li class="list-inline-item">
-            <a target="_blank" href="https://twitter.com/KhawarAliShaah" rel="noopener noreferrer">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-              </span>
+            <a class="social-link social-link--twitter" target="_blank" href="https://twitter.com/KhawarAliShaah"
+              rel="noopener noreferrer" aria-label="Twitter">
+              <i class="fab fa-twitter"></i>
             </a>
           </li>
           <li class="list-inline-item">
-            <a target="_blank" href="https://www.linkedin.com/in/khawarali5/" rel="noopener noreferrer">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
-              </span>
+            <a class="social-link social-link--linkedin" target="_blank" href="https://www.linkedin.com/in/khawarali5/"
+              rel="noopener noreferrer" aria-label="LinkedIn">
+              <i class="fab fa-linkedin-in"></i>
             </a>
           </li>
           <li class="list-inline-item">
-            <a target="_blank" href="https://github.com/SyedKhawarAli" rel="noopener noreferrer">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-              </span>
+            <a class="social-link social-link--github" target="_blank" href="https://github.com/SyedKhawarAli"
+              rel="noopener noreferrer" aria-label="GitHub">
+              <i class="fab fa-github"></i>
             </a>
           </li>
           <li class="list-inline-item">
-            <a target="_blank" href="https://www.hackerrank.com/khawarali5" rel="noopener noreferrer">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa-brands fa-hackerrank fa-stack-1x fa-inverse"></i>
-              </span>
+            <a class="social-link social-link--hackerrank" target="_blank" href="https://www.hackerrank.com/khawarali5"
+              rel="noopener noreferrer" aria-label="HackerRank">
+              <i class="fab fa-hackerrank"></i>
             </a>
           </li>
           <li class="list-inline-item">
-            <a target="_blank" href="https://stackoverflow.com/users/5096960/khawar-ali" rel="noopener noreferrer">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fab fa-stack-overflow fa-stack-1x fa-inverse"></i>
-              </span>
+            <a class="social-link social-link--stackoverflow" target="_blank"
+              href="https://stackoverflow.com/users/5096960/khawar-ali" rel="noopener noreferrer"
+              aria-label="Stack Overflow">
+              <i class="fab fa-stack-overflow"></i>
             </a>
           </li>
         </ul>
@@ -250,372 +237,10 @@
       <div class="my-auto">
         <h2 class="mb-5" id="Projects">Projects</h2>
         <h3 class="mb-4">iOS</h3>
-        <!---------- Dream Broker #One ----------->
-        <h4 class="mb-3"><a href="https://dreambroker.com/product-one/">Dream Broker #One</a></h4>
-        <p>
-          working on an iOS application with Swift UIKit. The application is responsible for secure and reliable communication.
-          Integrated WebRTC, Push Notifications, Live Chat, and many more.</p>        
-        <div>
-          <div class="subheading mb-1">‍Things I learned:</div>
-          <ul>
-            <li>WebRTC</li>
-            <li>Object mapping from API(JSON to model) using <a target="_blank"
-                href="https://github.com/tristanhimmelman/ObjectMapper" rel="noopener noreferrer">ObjectMapper</a></li>
-            <li>Side menu using a library <a target="_blank" href="https://github.com/jonkykong/SideMenu" rel="noopener noreferrer">SideMenu</a>
-            </li>            
-          </ul>
-        </div>
-        <a href='https://apps.apple.com/fi/app/dream-broker-one/id1662085563'>
-          <img alt='available on Apple store' src='apple_badge.png' width="18%" height="18%" />
-        </a>
-        <br />
-        <br />
-        <br />
-        <!----------- Zytrack ------------>
-        <h4 class="mb-3">Zytrack</h4>
-        <p>
-          Good digital strategies decide which companies remain relevant. In fact, no company can escape digitization
-          anymore.
-          Thanks to Zytrack, even routine work can be digitized, leaving
-          employees more time for meaningful activities.
-
-          Digital time recording as well as payroll accounting and invoicing to end customers form one of these areas -
-          and
-          offer
-          a multitude of advantages that you will definitely not want to do without.</p>
-        <div class="subheading mb-1">Screenshots</div>
-        <img src="img/Zytrack/2.png" width="15%" height="15%" title="Side Menu">
-        <img src="img/Zytrack/3.png" width="15%" height="15%" title="Timer">
-        <img src="img/Zytrack/5.png" width="15%" height="15%" title="Additional Cost">
-        <img src="img/Zytrack/8.png" width="15%" height="15%" title="Leave Calendar">
-        <img src="img/Zytrack/9.png" width="15%" height="15%" title="Leave Status">
-        <img src="img/Zytrack/11.png" width="15%" height="15%" title="New Chat">
-        <br />
-        <br />
-        <div>
-          <div class="subheading mb-1">‍Things I learned:</div>
-          <ul>
-            <li>MVVMR</li>
-            <li>Object mapping from API(JSON to model) using <a target="_blank"
-                href="https://github.com/tristanhimmelman/ObjectMapper" rel="noopener noreferrer">ObjectMapper</a></li>
-            <li>Side menu using a library <a target="_blank" href="https://github.com/jonkykong/SideMenu" rel="noopener noreferrer">SideMenu</a>
-            </li>
-            <li>To loading images from url using <a target="_blank"
-                href="https://github.com/SDWebImage/SDWebImage" rel="noopener noreferrer">SDWebImage</a>
-            </li>
-            <li>Custom view componenets for multiple usage, extension for native class/views</li>
-          </ul>
-        </div>
-        <a href='https://apps.apple.com/ro/app/zytrack/id1557907123'>
-          <img alt='available on Apple store' src='apple_badge.png' width="18%" height="18%" />
-        </a>
-        <br />
-        <br />
-        <br />
-        <!----------- Go Power ----------->
-        <h4 class="mb-3">Go Power</h4>
-        <p>
-          Go Power deals in a variety of solar controllers, e.g MPPT controller series, RVC and Lithium battery
-          controllers.
-          Mobile application is used for mobile connectivity and displaying data of these controllers. Application could
-          track all the stats related to the controllers
-          and display them right on the mobile screens. These stats included Current Production, Voltage, Battery Health
-          and other related data.
-        </p>
-        <p>
-          These controllers used Bluetooth to communicate with the phone, I used Bluetooth 5.0 for better connectivity –
-          making
-          the app even more supportive. More so, this integration of Bluetooth was done by keeping the latest BLE
-          communication protocols in mind.
-          Apart from that, Firmware updated for these controller devices can be done mobile application to keep them
-          consistent
-          with future changes in the protocols.
-
-        </p>
-        <div class="subheading mb-1">Screenshots</div>
-        <img src="img/GoPower/6.png" width="15%" height="15%" title="Lithium Battery Controller">
-        <img src="img/GoPower/7.png" width="15%" height="15%" title="Detail">
-        <img src="img/GoPower/2.png" width="15%" height="15%" title="Solar Controller DashBoard">
-        <img src="img/GoPower/3.png" width="15%" height="15%" title="history">
-        <img src="img/GoPower/5.png" width="15%" height="15%" title="Settings">
-        <br />
-        <br />
-        <div>
-          <div class="subheading mb-1">‍Things I learned:</div>
-          <ul>
-            <li><a target="_blank" href="https://developer.apple.com/documentation/corebluetooth" rel="noopener noreferrer">CoreBluetooth</a></li>
-            <li>data communication with external devices with BlueTooth and Bluetooth Low Energy</li>
-            <li>Tab view using a library <a target="_blank"
-                href="https://github.com/xmartlabs/XLPagerTabStrip" rel="noopener noreferrer">XLPagerTabStrip</a></li>
-            <li>Learn how to create custom collapsiable Views</li>
-          </ul>
-        </div>
-        <a href='https://apps.apple.com/us/app/go-power-connect/id1414570273?platform=iphone'>
-          <img alt='available on Apple store' src='apple_badge.png' width="18%" height="18%" />
-        </a>
-        <br />
-        <br />
-        <br />
-        <!-- Feedback SDK -->
-        <h4 class="mb-3">Feedback SDK</h4>
-        <p>
-          Developed a private swift package and CocoaPod to collect feedback in 4 different ways from users. It supports
-          feedback
-          in textual, audio, video, and selfie/picture form. SDK can be added to any iOS application just like any other
-          package
-          or CocoaPods. With just one line your app will be able to collect feedback from users.
-        </p>
-        <div class="subheading mb-1">Screenshots</div>
-        <img src="img/FeedbackSDK/1.png" width="15%" height="15%" title="DashBoard">
-        <img src="img/FeedbackSDK/2.png" width="15%" height="15%" title="DashBoard">
-        <img src="img/FeedbackSDK/3.png" width="15%" height="15%" title="Feedback Selection">
-        <img src="img/FeedbackSDK/4.png" width="15%" height="15%" title="Audio">
-        <img src="img/FeedbackSDK/5.png" width="15%" height="15%" title="Audio Recording">
-        <img src="img/FeedbackSDK/6.png" width="15%" height="15%" title="Textual Feedback">
-        <br />
-        <br />
-        <div>
-          <div class="subheading mb-1">‍Things I learned:</div>
-          <ul>
-            <li><a target="_blank" href="https://developer.apple.com/documentation/corebluetooth" rel="noopener noreferrer">CoreBluetooth</a></li>
-            <li>data communication with external devices with BlueTooth and Bluetooth Low Energy</li>
-            <li>Tab view using a library <a target="_blank"
-                href="https://github.com/xmartlabs/XLPagerTabStrip" rel="noopener noreferrer">XLPagerTabStrip</a></li>
-            <li>Learn how to create custom collapsiable Views</li>
-          </ul>
-        </div>
-
-        <br />
-        <br />
-        <br />
-        <!-- Xstream GYM App -->
-        <h4 class="mb-3">Xstream Gym App</h4>
-        <p>
-          This app represents perhaps the ultimate in-pocket personal trainer. Whether you’re looking to lose weight,
-          tone your
-          thighs, lift more weights, or become a faster runner. The application will help you with thousands of free
-          workouts
-          VIDEOS coached by real-life personal trainers. This app has all the tools you need to get fit—a massive
-          library of
-          instructional training videos, live streaming personal trainers, fitness routine planning, and tracking tools
-          that help
-          you target your workouts and keep easy track of your progress. They’ll walk you through each exercise with
-          timed
-          step-by-step audio, photo, and video, with—bonus—offers.</p>
-        <div class="subheading mb-1">Screenshots</div>
-        <img src="img/XstreemGym/1.png" width="15%" height="15%" title="DashBoard">
-        <img src="img/XstreemGym/2.png" width="15%" height="15%" title="Exercise Date">
-        <img src="img/XstreemGym/3.png" width="15%" height="15%" title="Classes">
-        <img src="img/XstreemGym/4.png" width="15%" height="15%" title="Add Class">
-        <img src="img/XstreemGym/5.png" width="15%" height="15%" title="Video playback">
-        <img src="img/XstreemGym/6.png" width="15%" height="15%" title="Videos on specific date">
-        <br />
-        <br />
-
-        <div>
-          <div class="subheading mb-1">‍Things I learned:</div>
-          <ul>
-            <li>MVVM</li>
-            <li>RESTful web services with Multipart using <a target="_blank"
-                href="https://github.com/Alamofire/Alamofire" rel="noopener noreferrer">Alamofire</a></li>
-            <li>Graphs using <a target="_blank" href="https://github.com/exyte/Macaw" rel="noopener noreferrer">Macaw</a></li>
-            <li>Circular progress view using <a target="_blank"
-                href="https://github.com/kaandedeoglu/KDCircularProgress" rel="noopener noreferrer">KDCircularProgress</a></li>
-            <li>Pin code View using <a target="_blank" href="https://github.com/Datt1994/DPOTPView" rel="noopener noreferrer">DPOTPView</a></li>
-            <li>Dropdown view using <a target="_blank" href="https://github.com/jriosdev/iOSDropDown" rel="noopener noreferrer">iOS DropDown</a>
-            </li>
-            <li>Facebook Shimmer effect for table views using <a target="_blank"
-                href="https://github.com/BeauNouvelle/ShimmerSwift" rel="noopener noreferrer">ShimmerSwift</a> </li>
-            <li>Custom template views for multiple usage, extension for native class/views</li>
-          </ul>
-        </div>
-
-        <br />
-        <br />
-        <br />
-
-        <h4 class="mb-3">FootFall</h4>
-
-        <p>
-          Developed an iOS application for a number of person count in the room. The application can live stream video
-          from the
-          live cam. Fetches JSON data and creates a live graph and tables for multiple room/labs. Receives push
-          notification in case of an increase of person count from a
-          certain threshold.</p>
-        <div class="subheading mb-1">Screenshots</div>
-        <img src="img/FootFall/login.png" width="15%" height="15%" title="Login">
-        <img src="img/FootFall/main.png" width="15%" height="15%" title="Main">
-        <img src="img/FootFall/labs.png" width="15%" height="15%" title="Labs">
-        <img src="img/FootFall/labDetails.png" width="15%" height="15%" title="Lab Detail">
-        <br />
-        <br />
-
-        <div>
-          <div class="subheading mb-1">‍Things I learned:</div>
-          <ul>
-            <li>Graphs using <a target="_blank" href="https://github.com/exyte/Macaw" rel="noopener noreferrer">Macaw</a></li>
-            <li>Live Streaming using <a target="_blank" href="https://github.com/videolan/vlckit" rel="noopener noreferrer">MobileVLCKit</a></li>
-            <li>Custom UICollectionView for Table view</li>
-            <li>UserDefaults to store user settings</li>
-            <li>Better acquainted with Code UI creation & Auto-Layout </li>
-          </ul>
-        </div>
-
-        <br />
-        <br />
-        <br />
-
-        <div class="subheading mb-3">
-          <h4>Tower Surveillance</h4>
-        </div>
-        <p>
-          Design and developed tower surveillance application to monitor tower security. User will receive the push
-          notification
-          in case of any breach. Push notifications are generated using firebase and Apple push notification service.
-          Used JSON
-          serialization ( swiftyjson ) to populate the views.
-        </p>
-        <div class="subheading mb-1">Screenshots</div>
-        <img src="img/Tower_Surveillance/logo.png" width="15%" height="15%" title="Logo">
-        <img src="img/Tower_Surveillance/login.png" width="15%" height="15%" title="Login">
-        <img src="img/Tower_Surveillance/main.png" width="15%" height="15%" title="Main">
-        <img src="img/Tower_Surveillance/towers.png" width="15%" height="15%" title="Towers">
-        <img src="img/Tower_Surveillance/reports.png" width="15%" height="15%" title="Reports">
-        <img src="img/Tower_Surveillance/reportDetail.png" width="15%" height="15%" title="Report Detail">
-        <br />
-        <br />
-
-        <div>
-          <div class="subheading mb-1">‍Things I learned:</div>
-          <ul>
-            <li>JSON serialization using <a target="_blank"
-                href="https://github.com/SwiftyJSON/SwiftyJSON" rel="noopener noreferrer">swiftyjson</a> </li>
-            <li>API calls and response using <a target="_blank"
-                href="https://github.com/Alamofire/Alamofire" rel="noopener noreferrer">Alamofire</a></li>
-            <li>Apple push notification service </li>
-            <li>Utilizing Semantic Colors to support light & dark mode</li>
-            <li>Better acquainted with Code UI creation & Auto-Layout </li>
-          </ul>
-        </div>
-
-        <br />
-        <br />
-        <br />
-
-
-        <div class="subheading mb-3">
-          <h4><a href="https://syedkhawarali.github.io/Travel-Buddy/">Travel Buddy</a></h4>
-        </div>
-        <p>
-          iOS social application for event posting. User can sig up/in and post and event. Followers can like, comment,
-          share and join the event.
-          Followers can chat with each other. I have used Firebase runtime database to support events system and real
-          time messaging service.
-        </p>
-        <div class="subheading mb-1">Screenshots</div>
-        <img src="https://github.com/SyedKhawarAli/Travel-Buddy/blob/master/Screenshots/1.png?raw=true" width="15%"
-          height="15%" title="Timeline">
-        <img src="https://github.com/SyedKhawarAli/Travel-Buddy/blob/master/Screenshots/2.png?raw=true" width="15%"
-          height="15%" title="Follow">
-        <img src="https://github.com/SyedKhawarAli/Travel-Buddy/blob/master/Screenshots/3.png?raw=true" width="15%"
-          height="15%" title="Create post">
-        <img src="https://github.com/SyedKhawarAli/Travel-Buddy/blob/master/Screenshots/4.png?raw=true" width="15%"
-          height="15%" title="Comments">
-        <img src="https://github.com/SyedKhawarAli/Travel-Buddy/blob/master/Screenshots/5.png?raw=true" width="15%"
-          height="15%" title="Already contacted people">
-        <img src="https://github.com/SyedKhawarAli/Travel-Buddy/blob/master/Screenshots/6.png?raw=true" width="15%"
-          height="15%" title="Chat">
-        <br />
-        <br />
-
-        <div>
-          <div class="subheading mb-1">‍Things I learned:</div>
-          <ul>
-            <li>MessageUI, ContactsUI, Social, ProfileUI – For Event Posting and </li>
-            <li>Firebase real-time database to store, manage, synchronizing users data</li>
-            <li>Firebase observers for real-time messaging and synchronizing likes and comments</li>
-            <li>MapKit for event location selection</li>
-            <li>Better acquainted with Code UI creation & Auto-Layout </li>
-          </ul>
-        </div>
-
-        <br />
-        <br />
-        <br />
-
-        <div class="subheading mb-3">
-          <h4><a href="https://syedkhawarali.github.io/iOS-Chat-Application/">Chat Application</a></h4>
-        </div>
-        <p>
-          iOS chat application using Firebase with complete sign up/in option. Firebase runtime database being used to
-          support real
-          time messaging service.
-        </p>
-        <div class="subheading mb-1">Screenshots</div>
-        <img src="https://github.com/SyedKhawarAli/iOS-Chat-Application/blob/master/Chat_App_Screenshots/1.png?raw=true"
-          width="15%" height="15%" title="Sign up/in">
-        <img src="https://github.com/SyedKhawarAli/iOS-Chat-Application/blob/master/Chat_App_Screenshots/2.png?raw=true"
-          width="15%" height="15%" title="Select contact for chat">
-        <img src="https://github.com/SyedKhawarAli/iOS-Chat-Application/blob/master/Chat_App_Screenshots/4.png?raw=true"
-          width="15%" height="15%" title="Sent text and image messages">
-        <img src="https://github.com/SyedKhawarAli/iOS-Chat-Application/blob/master/Chat_App_Screenshots/3.png?raw=true"
-          width="15%" height="15%" title="Already contacted people">
-        <img src="https://github.com/SyedKhawarAli/iOS-Chat-Application/blob/master/Chat_App_Screenshots/5.png?raw=true"
-          width="15%" height="15%" title="Recived text and image messages">
-        <img src="https://github.com/SyedKhawarAli/iOS-Chat-Application/blob/master/Chat_App_Screenshots/6.png?raw=true"
-          width="15%" height="15%" title="Video chat">
-        <br />
-        <br />
-
-        <div>
-          <div class="subheading mb-1">‍Things I learned:</div>
-          <ul>
-            <li>MessageUI, ContactsUI, Videos Playback, Images Previews – For messaging</li>
-            <li>Login, Sign Up using <a target="_blank" href="https://firebase.google.com/" rel="noopener noreferrer">Firebase</a></li>
-            <li>Firebase real-time database to store, manage, synchronizing users data</li>
-            <li>UserDefaults to store user settings</li>
-            <li>Better acquainted with Code UI creation & Auto-Layout </li>
-          </ul>
-        </div>
-
-        <br />
-        <br />
-        <br />
-
-        <div class="subheading mb-3">
-          <h4><a href="https://syedkhawarali.github.io/Home-Automation-System-iOS-Application//">Home Automation System
-              iOS Application</a></h4>
-        </div>
-        <p>
-          Developed an iOS application for the holistic solution for monitoring and controlling all devices inside a
-          home. Application sends and receives
-          data through sockets via WiFi to hardware device.
-        </p>
-        <div class="subheading mb-1">Screenshots</div>
-        <img
-          src="https://github.com/SyedKhawarAli/Home-Automation-System-iOS-Application/blob/master/Screenshots/iotect%20tab%201.png?raw=true"
-          width="15%" height="15%" title="Bed Room">
-        <img
-          src="https://github.com/SyedKhawarAli/Home-Automation-System-iOS-Application/blob/master/Screenshots/iotect%20tab%202.png?raw=true"
-          width="15%" height="15%" title="Drawing Room">
-        <img
-          src="https://github.com/SyedKhawarAli/Home-Automation-System-iOS-Application/blob/master/Screenshots/iotect%20tab%203.png?raw=true"
-          width="15%" height="15%" title="Wash Room">
-        <br />
-        <br />
-
-        <div>
-          <div class="subheading mb-1">‍Things I learned:</div>
-          <ul>
-            <li>TabsUI, TableUI – For rooms and devices representation</li>
-            <li>Socket programming for sending and receiving data</li>
-            <li>Better acquainted with Storyboarding & Auto-Layout </li>
-          </ul>
-        </div>
-
-        <br />
-        <br />
-        <br />
+        <div id="iosProjects" class="project-list"></div>
+        <noscript>
+          <p class="text-warning">Please enable JavaScript to view the interactive project gallery.</p>
+        </noscript>
 
       </div>
     </section>
@@ -623,298 +248,16 @@
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="Personal">
       <div class="my-auto">
         <h3 class="mb-4">C#</h3>
-
-        <div class="subheading mb-3">
-          <a href="https://syedkhawarali.github.io/Virtual-Coach/">Virtual Coach</a>
-        </div>
-        <p>
-          Built a system that can be used to train junior sportsmen while learning through best of their fields.
-
-
-        </p>
-        <div class="subheading mb-1">Screenshots</div>
-        <img
-          src="https://raw.githubusercontent.com/SyedKhawarAli/Virtual-Coach/master/Virtual%20Coach%20Screenshots/1.JPG"
-          width="24%" height="25%" title="Main page">
-        <img
-          src="https://raw.githubusercontent.com/SyedKhawarAli/Virtual-Coach/master/Virtual%20Coach%20Screenshots/2.JPG"
-          width="24%" height="25%" title="Recording">
-        <img
-          src="https://raw.githubusercontent.com/SyedKhawarAli/Virtual-Coach/master/Virtual%20Coach%20Screenshots/3.JPG"
-          width="24%" height="15%" title="Testing">
-        <img
-          src="https://raw.githubusercontent.com/SyedKhawarAli/Virtual-Coach/master/Virtual%20Coach%20Screenshots/4.JPG"
-          width="24%" height="15%" title="Depth/Angle">
-        <img
-          src="https://raw.githubusercontent.com/SyedKhawarAli/Virtual-Coach/master/Virtual%20Coach%20Screenshots/5.JPG"
-          width="24%" height="15%" title="Alignment/Balance">
-        <img
-          src="https://raw.githubusercontent.com/SyedKhawarAli/Virtual-Coach/master/Virtual%20Coach%20Screenshots/6.JPG"
-          width="24%" height="15%" title="Range of Motion">
-        <img
-          src="https://raw.githubusercontent.com/SyedKhawarAli/Virtual-Coach/master/Virtual%20Coach%20Screenshots/7.JPG"
-          width="24%" height="15%" title="User Manual">
-
-        <br />
-        <br />
-        <br />
-
-        <div class="subheading mb-3">
-          <a href="https://syedkhawarali.github.io/Scoliosis-Detection/">Scoliosis Detection</a>
-        </div>
-        <p>
-          A system to detect scoliosis condition of patients. Scoliosis patients can monitor their recovery progress
-          without any harm or side effect.
-
-
-        </p>
-        <div class="subheading mb-1">Screenshots</div>
-        <img
-          src="https://github.com/SyedKhawarAli/Scoliosis-Detection/blob/master/Scoliosis_Detection_Screenshots/1.JPG?raw=true"
-          width="24%" height="25%" title="Main page">
-        <img
-          src="https://github.com/SyedKhawarAli/Scoliosis-Detection/blob/master/Scoliosis_Detection_Screenshots/2.JPG?raw=true"
-          width="24%" height="25%" title="Alignment/Balance">
-
-        <br />
-        <br />
-        <br />
-
-
-        <div class="subheading mb-3">
-          <a href="https://syedkhawarali.github.io/FaceAndGait-Detection/">Face And Gait Detection</a>
-        </div>
-        <p>
-          Detecting person by his/her face and gait using machine learning. I used ML.NET afor training purpose.
-
-        </p>
-        <div class="subheading mb-1">Screenshots</div>
-        <img
-          src="https://github.com/SyedKhawarAli/FaceAndGait-Detection/blob/master/FaceAndGait_Detection_Screenshots/1.JPG?raw=true"
-          width="24%" height="25%" title="Main page">
-        <img
-          src="https://github.com/SyedKhawarAli/FaceAndGait-Detection/blob/master/FaceAndGait_Detection_Screenshots/2.JPG?raw=true"
-          width="24%" height="25%" title="Testing">
-
-        <br />
-        <br />
-        <br />
-
-        <div class="subheading mb-2">
-          Zombie Doom
-        </div>
-        <p>
-          A virtual reality game for the Samsung GearVR. Players have to shoot zombies with real-world guns to save
-          themselves. There
-          are two modes in the game: Career Mode and Endless. Players must complete missions by killing the doomsday
-          zombie
-          apocalypse horde before their health bar ends to proceed further.
-        </p>
-
-        <br />
-        <br />
-        <br />
-
-        <div class="subheading mb-2">
-          Whack-a-Mole
-        </div>
-        <p>
-          A simple virtual reality Game for both Samsung GearVR and Google Cardboard. Players have to hit moles as they
-          come out of
-          the box.
-        </p>
-
-        <br />
-        <br />
-        <br />
-
-
+        <div id="csharpProjects" class="project-list" data-title="C#"></div>
       </div>
     </section>
-
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="Professional">
       <div class="my-auto">
         <h3 class="mb-4">Others</h3>
-
-        <div class="subheading mb-3">Centralized Home Automation System (Final Year Project)</div>
-        <p>Built a holistic solution for monitoring and controlling all devices inside a home using multiple smart
-          boards and
-          a smartphone application. I was responsible for development of the system’s smartphone application.</p>
-        <div class="subheading mb-1">Features: </div>
-        <ul>
-          <li>
-            Locking and scheduling of appliances
-          </li>
-          <li>
-            Power consumption and electricity bill forecasting
-          </li>
-          <li>
-            Protection against voltage fluctuations
-          </li>
-          <li>
-            Temperature and motion sensor
-          </li>
-          <li>
-            Integration with smoke detectors and fire alarms
-          </li>
-          <li>
-            Online/offline communication
-          </li>
-        </ul>
-        <h5 class="mb-1">Screenshots</h5>
-        <img
-          src="https://lh3.googleusercontent.com/NxsILj2iMqJ5Lbex3NuBlSxgCSdsdxOV89m222Pl4Na_aXTvmk_2en_Hg8yNVQu2Gl8E=w1440-h727-rw"
-          width="15%" height="15%" title="Main screen">
-        <img
-          src="https://lh3.googleusercontent.com/ZP7E2GQzDAGPvtGWUYxgQj1qJcBiyIkhgiuczf9u6xeDwslQxpehQoK0QuXasYSzgsy0=w1440-h727-rw"
-          width="15%" height="15%" title="Menu">
-        <img
-          src="https://lh3.googleusercontent.com/ggx82MbA0TMcUQfy_NW4ZnEq4HsAxONAu3It6Yvl_44T_1cBqmlxSjOa3Nd12MG46Yk=w1440-h727-rw"
-          width="15%" height="15%" title="Settings">
-
-        <br />
-        <br />
-
-        <br />
-        <br />
-        <br />
-
-        <div class="subheading mb-3">Online Quiz System</div>
-        <p>
-          Designed and developed a browser-based system that allows instructors to create, conduct, and evaluate
-          quizzes, thereby streamlining
-          the academic process. As the project's front-end developer, I used HTML, JavaScript and jQuery to build its
-          entire
-          interface. I also worked on the back-end communication, using WAMP to manage the website's database.
-        </p>
-
-        <br />
-        <br />
-        <br />
-        <div class="subheading mb-3">Clinic Management System</div>
-        <p>
-          Created a website to store patients histories, medical tests, and past diagnoses for use by doctors. Patients
-          could also
-          use the system to track their own cases and check doctors' timings and book appointments. I was the project's
-          front-end
-          developer.
-        </p>
-        <br />
-        <br />
-        <br />
-        <div class="subheading mb-2">
-          Independence Day Quiz: Azadi Special
-        </div>
-        <p>A general Knowledge quiz application on the Independence day of our beloved country Pakistan. The top ranked
-          players
-          on 14th August got gift hampers from UET Game Studio. Whether you love sports, showbiz, history or politics,
-          this
-          application has questions for all. Keeping the spirit of Azadi alive, all our questions are about Pakistan.
-          The
-          questions range from who was the first Prime Minister of Pakistan to which Pakistani cricketer scored a
-          century
-          off 37 deliveries.
-        </p>
-
-        <br />
-        <br />
-        <br />
-
-        <div class="subheading mb-2">
-          Pong Dash: Tap Tap Fun
-        </div>
-        <p>
-          Pong Dash is the retro form of Ping Pong with exciting colors and graphics. Epic game modes will help you test
-          players' brains
-          throughout the game. Different modes cover every skill level of the players, and the game's speed increases
-          with
-          time. Players can set high scores for each mode to be at the top of the leaderboard.
-        </p>
-
-        <a
-          href='https://www.amazon.com/Pong-Classic-Tap-Dash/dp/B0794T97LS/ref=sr_1_18?s=mobile-apps&ie=UTF8&qid=1525322938&sr=1-18'>
-          <img alt='available on Amazon store' src='amazon_badger2.png' width="18%" height="18%" />
-        </a>
-
-        <br />
-        <br />
-        <br />
-
-        <div class="subheading mb-2">
-          Protect the Candy
-        </div>
-        <p>
-          A simple 2D tap-to-kill game in which players must help the protagonist (Hansey) defend his granny's candy
-          house from hungry
-          monsters who will stop at nothing when it comes to stealing candy.
-        </p>
-
-
-        <br />
-        <br />
-        <br />
-
-        <div class="subheading mb-2">
-          Scale Mania
-        </div>
-        <p>
-          An assistance game for students, who are studying major and minor keys. Students are supposed to eliminating
-          wrong notes
-          before they reache the piano. The game contains all major and minor scales, 25 levels in all.
-        </p>
-        <a href='https://play.google.com/store/apps/details?id=com.gmail.khawarali5.Scale_Mania'>
-          <img alt='Get it on Google Play'
-            src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="18%"
-            height="18%" />
-        </a>
-
-        <br />
-        <br />
-        <br />
-
-        <div class="subheading mb-2">
-          Disc Flick: Clear the Board
-        </div>
-        <p>
-          A simple strategy game in which players aim to clear the board in limited moves and time. Swaping a disc
-          between any two
-          disc removes them, but only some disc can move or be removed.
-        </p>
-        <br />
-        <br />
-        <br />
-
-        <div class="subheading mb-2">
-          <a href="https://syedkhawarali.github.io/Pong-Fun/"> Pong Fun </a>
-        </div>
-        <p>
-          A simple arcade game inspired by minimalist design and elementary physics. Your mission in the game is to use
-          the paddle
-          to keep the balls on the screen. With time, more balls are added to the mix to put you through your paces. The
-          game was built to test players'
-          <a href=" https://edubloxtutor.com/improving-divided-attention/">divided attention</a> to see how well they
-          can multitask.
-          <a href=" https://github.com/SyedKhawarAli/Pong-Fun">[Code]</a>
-        </p>
-
-        <br />
-        <br />
-        <div class="subheading mb-2">
-          <a href="https://syedkhawarali.github.io/ABC/"> ABC </a>
-        </div>
-        <p>
-
-          A lively children's game intended to teach toddlers the alphabet. Its colourful interface and interactive
-          gameplay ensure
-          kids will have a blast learning their ABC's and their building vocabulary with all the illustrations of real
-          life
-          objects in it.
-          <a href="https://github.com/SyedKhawarAli/ABC">[Code]</a>
-        </p>
-
+        <div id="otherProjects" class="project-list" data-title="Others"></div>
       </div>
     </section>
-  </div>
+  </main>
 
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.min.js"></script>
@@ -924,6 +267,10 @@
   <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
 
   <!-- Custom scripts for this template -->
+  <script src="js/iosProjects.js"></script>
+  <script src="js/csharpProjects.js"></script>
+  <script src="js/otherProjects.js"></script>
+  <script src="js/projects.js"></script>
   <script src="js/resume.min.js"></script>
 
 </body>

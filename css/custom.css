@@ -1,0 +1,157 @@
+/* Custom helpers layered on top of resume.min.css */
+
+.nav-subitem {
+  font-size: 0.9rem;
+  letter-spacing: 0.02em;
+}
+
+.social-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  padding-left: 0;
+}
+
+.social-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  color: #fff;
+  font-size: 1.15rem;
+  background: var(--link-bg, #0d6efd);
+  box-shadow: 0px 12px 25px rgba(9, 9, 9, 0.25);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, opacity 0.2s ease;
+}
+
+.social-link:hover,
+.social-link:focus {
+  text-decoration: none;
+  color: #fff;
+  transform: translateY(-4px) scale(1.05);
+  box-shadow: 0px 18px 35px rgba(9, 9, 9, 0.3);
+}
+
+.social-link--twitter {
+  --link-bg: linear-gradient(135deg, #1da1f2, #0d8fdd);
+}
+
+.social-link--linkedin {
+  --link-bg: linear-gradient(135deg, #0077b5, #005582);
+}
+
+.social-link--github {
+  --link-bg: linear-gradient(135deg, #333, #0f0f0f);
+}
+
+.social-link--hackerrank {
+  --link-bg: linear-gradient(135deg, #2ec866, #1fa750);
+}
+
+.social-link--stackoverflow {
+  --link-bg: linear-gradient(135deg, #f48024, #d95e00);
+}
+
+.section-spacer {
+  margin: 2rem 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.section-spacer.section-spacer--sm {
+  margin: 1rem 0;
+  border: none;
+}
+
+.project-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+}
+
+.project {
+  margin-bottom: 2.5rem;
+  border-radius: 1.25rem;
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.project:last-child {
+  margin-bottom: 0;
+}
+
+.project__header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.project__title {
+  margin: 0;
+  font-size: 1.35rem;
+}
+
+.project__title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.project__title a:hover,
+.project__title a:focus {
+  color: #0d6efd;
+}
+
+.project__body {
+  display: grid;
+  gap: 1rem;
+}
+
+.project-subheading {
+  align-items: center;
+  font-size: 1.20rem;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  color: #9b9797;
+  padding: 0.5rem 0rem;
+  margin: .5rem 0 0.1rem;
+}
+
+.project__media {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.project__media img {
+  width: 160px;
+  max-width: 100%;
+}
+
+.project-list[data-title="C#"] .project__media img {
+  width: 240px;
+}
+
+.project__highlights {
+  margin: 0;
+  padding-left: 2.25rem;
+}
+
+.project__highlights li {
+  margin-bottom: 0.35rem;
+}
+
+.project__actions {
+  margin-top: 0.75rem;
+  padding-left: 0.0rem;
+}
+
+.project__badge {
+  display: inline-block;
+}
+
+.project__badge img {
+  max-width: 180px;
+  height: auto;
+}
